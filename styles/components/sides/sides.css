@@ -1,0 +1,9 @@
+@import url(./__container/__container.css);
+
+.sides {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+}

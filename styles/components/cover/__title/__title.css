@@ -1,0 +1,8 @@
+.cover__title {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 104px;
+    line-height: 85%;
+    color: #e4d6f0;
+    z-index: 1;
+}

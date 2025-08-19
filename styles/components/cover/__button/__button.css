@@ -1,0 +1,7 @@
+.cover__button {
+    font-size: 24px;
+    font-weight: 500;
+    padding: 20px 120px;
+    margin-bottom: 4px;
+    z-index: 1;
+}
