@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.js --env env=prod",
     "start": "webpack serve --config webpack/webpack.config.js --env env=dev",
+    "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.js --env env=prod",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "repository": {
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/lisantov/ThissMore/issues"
   },
-  "homepage": "https://github.com/lisantov/ThissMore#readme",
+  "homepage": "https://github.com/lisantov/ThissMore",
   "description": "",
   "devDependencies": {
     "autoprefixer": "^10.4.21",
