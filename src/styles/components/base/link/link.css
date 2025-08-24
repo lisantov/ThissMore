@@ -1,0 +1,39 @@
+.link {
+    position: relative;
+    font-family: Montserrat, sans-serif;
+    color: #dadada;
+    cursor: pointer;
+    text-decoration: none;
+    text-underline-offset: 2px;
+    transition: 0.2s ease-in-out;
+}
+
+.link::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 110%;
+    width: 0%;
+    height: 2px;
+    background-color: #F93F3F;
+    transition: 0.25s ease-in-out;
+}
+
+.link:hover {
+    color: #F93F3F;
+}
+
+
+.link:hover::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 110%;
+    width: 100%;
+    height: 2px;
+}
+
+
+.link:active {
+    color: #BC2828;
+}

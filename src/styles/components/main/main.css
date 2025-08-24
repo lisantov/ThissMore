@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    width: 100%;
+    padding: 120px 40px 50px;
+    background-color: #121212;
+}

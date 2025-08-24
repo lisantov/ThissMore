@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Manrope;
+    src: url(../assets/fonts/Manrope/Manrope-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../assets/fonts/Montserrat/MontserratAlternates-ExtraLight.ttf);
+    font-weight: 200
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../assets/fonts/Montserrat/MontserratAlternates-Light.ttf);
+    font-weight: 300
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../assets/fonts/Montserrat/MontserratAlternates-Regular.ttf);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../assets/fonts/Montserrat/MontserratAlternates-Medium.ttf);
+    font-weight: 500
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../assets/fonts/Montserrat/MontserratAlternates-SemiBold.ttf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../assets/fonts/Montserrat/MontserratAlternates-ExtraBold.ttf);
+    font-weight: 800
+}

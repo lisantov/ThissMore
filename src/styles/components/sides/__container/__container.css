@@ -1,0 +1,11 @@
+@import url(./__content/__content.css);
+@import url(./__image/__image.css);
+@import url(./_reverse/_reverse.css);
+
+.sides__container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    height: 420px;
+}

@@ -1,0 +1,18 @@
+@import url('./fonts.css');
+
+@import url(./components/base/base.css);
+
+@import url(./components/header/header.css);
+@import url(./components/nav/nav.css);
+@import url(./components/cover/cover.css);
+@import url(./components/main/main.css);
+@import url(./components/sides/sides.css);
+@import url(./components/programs/programs.css);
+@import url(./components/promo/promo.css);
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

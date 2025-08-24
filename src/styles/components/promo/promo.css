@@ -1,0 +1,11 @@
+@import url(./__container/__container.css);
+@import url(./__player/__player.css);
+@import url(./__video-container/__video-container.css);
+@import url(./__video/__video.css);
+@import url(./__hint/__hint.css);
+
+.promo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

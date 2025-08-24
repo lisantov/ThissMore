@@ -1,0 +1,23 @@
+.button {
+    font-family: Montserrat, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f93f3f;
+    border: 2px solid #f93f3f;
+    border-radius: 10px;
+    color: #dadada;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.button:hover {
+    background-color: #f93f3f44;
+    color: #fff;
+    opacity: 0.95;
+    scale: 1.03;
+}
+
+.button:active {
+    background-color: #bc2828;
+}
